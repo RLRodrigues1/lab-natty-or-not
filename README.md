@@ -23,16 +23,17 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizei ferramentas de inteligencia artificial para gerar um artigo sobre tecnologia
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT
+Bing creator
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Determinei algumas premissas e regras para que o conteudo gerado fosse de facil entendimento. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://web.dio.me/articles/quando-usar-diretivas?back=%2Farticles&open-modal=true&page=1&order=oldest
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
